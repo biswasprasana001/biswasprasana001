@@ -3,6 +3,7 @@
 - 😄 I am a Life - Long Learner & I Believe Firmly with the Idea of Learning by Curiousity instead of Dogma.
 - 👀 Been currently Self - Teaching myself to Become a Full Stack Web Developer with MERN as Tech-Stack.
 - 🌱 I have completed Responsive Web Design Certification [@freeCodeCamp][fccWebsite] where basically You are given a CourseWork of 300 Hrs after which you receive a Certification only when you complete 5 Projects based on what you just Learned.
+- 📟 Here's the Credentials - [Responsive Web Design Certification][certLink]
 - 🔥  After Finishing it, I am on way to finish JavaScript which 75% Completed.
 - 💞️ Since I believe firmly in Curiousity Based Learning, I am looking forward to contribute my Part with whatever Knowledge I have to Open Source Projects where the Motto itself is Based on Curiousity.
 - ⚡ Fun Fact - I tend to learn more when I am doing a Project than when I am teaching myself to Build that Project.
@@ -26,4 +27,5 @@
 [fccWebsite]: https://www.freecodecamp.org/
 [twitter]: www.linkedin.com/in/biswas-prasana
 [linkedin]: https://twitter.com/BiswasPrasana
+[certLink]: https://freecodecamp.org/certification/biswasprasana001/responsive-web-design
 
