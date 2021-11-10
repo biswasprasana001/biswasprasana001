@@ -8,6 +8,8 @@
 - 💞️ Since I believe firmly in Curiousity Based Learning, I am looking forward to contribute my Part with whatever Knowledge I have to Open Source Projects where the Motto itself is Based on Curiousity.
 - ⚡ Fun Fact - I tend to learn more when I am doing a Project than when I am teaching myself to Build that Project.
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -23,6 +25,9 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<br>
+
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biswasprasana001)](https://github.com/anuraghazra/github-readme-stats)
 
