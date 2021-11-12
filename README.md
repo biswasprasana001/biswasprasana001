@@ -37,6 +37,6 @@
 
 [fccWebsite]: https://www.freecodecamp.org/
 [twitter]: https://twitter.com/BiswasPrasana
-[linkedin]: www.linkedin.com/in/biswas-prasana
+[linkedin]: https://www.linkedin.com/in/biswas-prasana
 [certLink]: https://freecodecamp.org/certification/biswasprasana001/responsive-web-design
 
