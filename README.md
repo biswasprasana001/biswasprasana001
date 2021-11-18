@@ -33,6 +33,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biswasprasana001)](https://github.com/anuraghazra/github-readme-stats)
 
 - The Fact is I started using GitHub since late September 2021, so less commits 😊.
+- Whenver I am not Commiting Means, I am learning Something New.
 
 
 [fccWebsite]: https://www.freecodecamp.org/
