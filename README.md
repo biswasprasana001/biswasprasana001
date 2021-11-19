@@ -4,10 +4,10 @@
 - 👀 Been currently Self - Teaching myself to Become a Full Stack Web Developer with MERN as Tech-Stack since Late September 2021.
 - 🌱 I have completed Responsive Web Design Certification [@freeCodeCamp][fccWebsite] where basically You are given a CourseWork of 300 Hrs after which you receive a Certification only when you complete 5 Projects based on what you just Learned.
 - 📟 Here's the Credentials - [Responsive Web Design Certification][certLink]
-- 🔥  After Finishing it, I am on way to finish JavaScript which 75% Completed.
-- 💞️ Since I believe firmly in Curiousity Based Learning, I am looking forward to contribute my Part with whatever Knowledge I have to Open Source Projects where the Motto itself is Based on Curiousity.
+- 🔥 After Finishing it, I am on way to finish JavaScript which 75% Completed.
+- 💞️ Since I believe firmly in Curiousity Based Learning, I am looking forward to contribute my Part with whatever Knowledge I have to Open Source Projects where      the Motto itself is Based on Curiousity.
 - ⚡ Fun Fact - I tend to learn more when I am doing a Project than when I am teaching myself to Build that Project.
-- On those Days When I Didn't Commit, I was Learning Something for Which I Don't Find Any Reason to do a Fake Commit.
+- :) On those Days When I Didn't Commit, I was Learning Something for Which I Don't Find Any Reason to do a Fake Commit.
 
 ---
 
