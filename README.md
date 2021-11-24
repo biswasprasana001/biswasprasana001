@@ -1,6 +1,6 @@
 ### Hey There, Biswas Here 👋 Welcome To My Profile.
 
-- 😄 I am a Life - Long Learner & I Firmly Believe with the Idea of Learning by Curiousity instead of Dogma i.e currently widespreading in the World.
+- 😄 I am a Life - Long Learner & I Firmly Believe in the Idea of Learning by Curiousity instead of Dogma i.e currently widespreading in the World.
 - 👀 Been currently Self - Teaching myself to Become a Full Stack Web Developer with MERN as Tech-Stack since Late September 2021.
 - 🌱 I have completed Responsive Web Design Certification [@freeCodeCamp][fccWebsite] where basically You are given a CourseWork of 300 Hrs after which you receive a Certification only when you complete 5 Projects based on what you just Learned.
 - 📟 Here's the Credentials - [Responsive Web Design Certification][certLink]
