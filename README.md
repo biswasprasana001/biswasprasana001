@@ -9,7 +9,6 @@
 - ⚡ Fun Fact - I tend to learn more when I am doing a Project than when I am teaching myself to Build that Project.
 - :)  On those Days When I Didn't Commit, I was Learning Something for Which I Don't Find Any Reason to do a Fake Commit.
 - 
-
 ---
 
 ### Connect with me:
