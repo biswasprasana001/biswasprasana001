@@ -1,7 +1,7 @@
 ### Hey There, Biswas Here ✌
 
 - 😄 People ask me Why didn't I do a degree in Computer Science (Though a Related Degree called Maths) if I am so much into coding. I said by the time when I found my Purpose it was too late to do a  degree. So, Since then...
-- 👀 I Been currently Self - Teaching myself to Become a Full Stack Web Developer with MERN as Tech-Stack since Late September 2021.
+- 👀 I Been currently Self-Teaching myself to Become a Full Stack Web Developer with MERN as Tech-Stack since Late September 2021.
 - 🌱 I have completed Responsive Web Design Certification [@freeCodeCamp][fccWebsite] where basically You are given a CourseWork of 300 Hrs after which you receive a Certification only when you complete 5 Projects based on what you just Learned.
 - 📟 Here is the Credentials - [Responsive Web Design Certification][certLink]
 - 🔥 After Finishing it, I am on way to finish JavaScript which 80% Completed.
