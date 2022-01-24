@@ -33,7 +33,7 @@
 
 [![Biswas's GitHub stats](https://github-readme-stats.vercel.app/api?username=biswasprasana001)](https://github.com/anuraghazra/github-readme-stats)
 
-- Fact is I started using GitHub since late September 2021, so less commits 😊.
+- The Fact is I started using GitHub since late September 2021, so less commits 😊.
 
 
 [fccWebsite]: https://www.freecodecamp.org/
