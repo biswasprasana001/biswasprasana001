@@ -36,7 +36,7 @@
 - The Fact is I started using GitHub since late September 2021, so less commits 😊.
 
 
-[fccWebsite]: https://www.freecodecamp.org
+[fccWebsite]: https://www.freecodecamp.org/
 [twitter]: https://twitter.com/BiswasPrasana
 [linkedin]: https://www.linkedin.com/in/biswas-prasana
 [certLink]: https://freecodecamp.org/certification/biswasprasana001/responsive-web-design
