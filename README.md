@@ -1,4 +1,4 @@
-### Hey There, Biswa Here ✌
+### Hey There, Biswas Here ✌
 
 - 😄 People ask me Why didn't I do a degree in Computer Science (Though a Related Degree called Maths) if I am so much into coding. I said by the time when I found my Purpose it was too late to do a  degree. So, Since then...
 - 👀 I Been currently Self - Teaching myself to Become a Full Stack Web Developer with MERN Stack as Tech-Stack since Late September 2021.
