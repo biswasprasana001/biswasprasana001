@@ -7,7 +7,7 @@
 - 🔥 After Finishing it, I am on way to finish JavaScript which 80% Completed.
 - 💞️ Since I believe firmly in Curiousity Based Learning, I am looking forward to contribute my Part with whatever Knowledge I have to Open Source Projects where      the Motto itself is Based on Curiousity & Learning.
 - ⚡ Fun Fact - I tend to learn more when I am doing a Project than when I am teaching myself to Build that Project.
-- :)  On those Days When I Didn't Commit, I was Learning Something for Which I Don't Find Any Reason to do a Fake Commit
+- :)  On those Days When I Didn't Commit, I was Learning Something for Which I Don't Find Any Reason to do a Fake Commit.
 
 ---
 
