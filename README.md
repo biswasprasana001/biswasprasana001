@@ -1,6 +1,6 @@
 # Biswas Prasana Swain
 
-Hi there! This is Biswas, I'm a Master of Computer Application student who is passionate about web development and learning new technologies. I have experience in a variety of programming languages and a proven track record of delivering high-quality projects on time and on budget.
+Hi there! This is Biswas, I'm a Final Year Master of Computer Application student who is passionate about web development and learning new technologies. I have experience in a variety of programming languages and a proven track record of delivering high-quality projects on time and on budget.
 
 ## Skills
 - Programming languages: Javascript, C, C++, Java
@@ -9,9 +9,9 @@ Hi there! This is Biswas, I'm a Master of Computer Application student who is pa
 
 ## What I'm currently working on 💻
 
-- Developing full-stack web applications using the MERN stack (MongoDB, Express, React, Node.js).
-- Building projects that showcase my skills and creativity.
-- Exploring new frameworks and libraries to enhance my web development experience.
+- MERNChat - A Simple MERN Stack Messenger App, enabling real - time communication between it's users (In it's final stages) - https://github.com/biswasprasana001/mern-chat
+- MERNMail - A MERN Stack EMail App, enabling users to send EMail to anyone and display the same - https://github.com/biswasprasana001/mern-mail
+- MERNTube - A MERN Stack Video Sharing Platform, where users can upload, like, comment on any videos (Ongoing) - https://github.com/biswasprasana001/mern-tube
 
 ## What I'm looking for 🙌
 
