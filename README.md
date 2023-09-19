@@ -7,7 +7,7 @@ Hi there! This is Biswas, I'm a Final Year Master of Computer Application studen
 - Web development: HTML, CSS, React, Node, Express
 - Databases: MySQL, MongoDB
 
-## What I'm currently working on 💻
+## What I have worked on 💻
 
 - MERNChat - A Simple MERN Stack Messenger App, enabling real - time communication between it's users - https://github.com/biswasprasana001/mern-chat
 - MERNMail - A MERN Stack EMail App, enabling users to send EMail to anyone and display the same - https://github.com/biswasprasana001/mern-mail
