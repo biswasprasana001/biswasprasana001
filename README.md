@@ -9,9 +9,9 @@ Hi there! This is Biswas, I'm a Final Year Master of Computer Application studen
 
 ## What I'm currently working on 💻
 
-- MERNChat - A Simple MERN Stack Messenger App, enabling real - time communication between it's users (In it's final stages) - https://github.com/biswasprasana001/mern-chat
+- MERNChat - A Simple MERN Stack Messenger App, enabling real - time communication between it's users - https://github.com/biswasprasana001/mern-chat
 - MERNMail - A MERN Stack EMail App, enabling users to send EMail to anyone and display the same - https://github.com/biswasprasana001/mern-mail
-- MERNTube - A MERN Stack Video Sharing Platform, where users can upload, like, comment on any videos (Ongoing) - https://github.com/biswasprasana001/mern-tube
+- MERNTube - A MERN Stack Video Sharing Platform, where users can upload, like, comment on any videos - https://github.com/biswasprasana001/mern-tube
 
 ## What I'm looking for 🙌
 
