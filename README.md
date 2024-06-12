@@ -36,5 +36,5 @@ Feel free to reach out to me via [email](mailto:biswasprasana001@gmail.com) or c
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/biswasprasana001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/biswas-prasana/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/biswasprasana001)
