@@ -6,17 +6,17 @@ Welcome to my GitHub repository! I'm Biswas Prasana, a passionate full-stack web
 
 ## Projects
 
+### WebRTStudio
+
+[WebRTStudio](https://github.com/biswasprasana001/WebRTStudio) is a collaborative platform for real-time communication and code collaboration. It supports features like video chat, text chat, code editing with real-time updates, and a collaborative whiteboard. Developed with React, Node.js, Express, MongoDB, Socket.io, and PeerJS, this project showcases my skills in building real-time applications.
+
 ### MERN Tube
 
 [MERN Tube](https://github.com/biswasprasana001/mern-tube) is a video-sharing platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to register, log in, upload videos, view and comment on videos, like videos, and manage playlists. This project showcases my skills in building complex full-stack applications.
 
-### JS Photo Editing
+### JSPhotoEditor
 
-[JS Photo Editing](https://github.com/biswasprasana001/js-photo-editing) is a web-based photo editing application built with HTML, CSS, JavaScript, Node.js, Express, MongoDB, and HTML Canvas. It enables users to upload, edit, save, download, and re-edit images with various filters and effects. This project demonstrates my expertise in frontend development and image processing.
-
-### WebRTStudio
-
-[WebRTStudio](https://github.com/biswasprasana001/WebRTStudio) is a collaborative platform for real-time communication and code collaboration. It supports features like video chat, text chat, code editing with real-time updates, and a collaborative whiteboard. Developed with React, Node.js, Express, MongoDB, Socket.io, and PeerJS, this project showcases my skills in building real-time applications.
+[JSPhotoEditor](https://github.com/biswasprasana001/js-photo-editing) is a web-based photo editing application built with HTML, CSS, JavaScript, Node.js, Express, MongoDB, and HTML Canvas. It enables users to upload, edit, save, download, and re-edit images with various filters and effects. This project demonstrates my expertise in frontend development and image processing.
 
 ## Skills
 
