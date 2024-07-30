@@ -20,15 +20,42 @@ Welcome to my GitHub repository! I'm Biswas Prasana, a passionate full-stack web
 
 ## Skills
 
-- **Frontend Development**: Proficient in React.js for building dynamic and responsive user interfaces. Experienced in using React Router for client-side routing and integrating third-party libraries like FontAwesome and React Player.
+### Frontend
+- **React.js:** A JavaScript library for building user interfaces.
+- **HTML:** The standard markup language for creating web pages.
+- **CSS:** Style sheet language used for describing the presentation of a document.
+- **JavaScript:** High-level, often just-in-time compiled language that conforms to the ECMAScript specification.
+- **TypeScript:** An open-source language which builds on JavaScript by adding static type definitions.
+- **Material-UI:** A popular React UI framework.
+- **Redux:** A predictable state container for JavaScript apps.
+- **Jest:** A delightful JavaScript Testing Framework with a focus on simplicity.
 
-- **Backend Development**: Skilled in Node.js and Express for building scalable server-side applications. Experienced in database management using MongoDB and Mongoose for schema-based data modeling.
+### Backend
+- **Node.js:** A JavaScript runtime built on Chrome's V8 JavaScript engine.
+- **Express.js:** A minimal and flexible Node.js web application framework.
+- **MongoDB:** A source-available cross-platform document-oriented database program.
+- **PostgreSQL:** A powerful, open-source object-relational database system.
+- **GraphQL:** A query language for your API.
+- **REST API:** Architectural style for an application program interface (API) that uses HTTP requests to access and use data.
+- **Socket.io:** Enables real-time, bidirectional and event-based communication.
 
-- **Real-time Communication**: Experienced in implementing real-time communication features using technologies like Socket.io and PeerJS.
+### Cloud Services
+- **Heroku:** A platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
+- **Vercel:** A cloud platform for static sites and Serverless Functions.
 
-- **Authentication and Authorization**: Proficient in implementing secure user authentication and authorization using JWT (JSON Web Tokens).
+### Other Technologies
+- **WebRTC:** Enables web applications and sites to capture and optionally stream audio and/or video media.
+- **PeerJS:** Simplifies WebRTC peer-to-peer data, video, and audio calls.
+- **HTML Canvas:** An HTML element used to draw graphics on a web page.
+- **WebSockets:** Provides full-duplex communication channels over a single TCP connection.
+- **bcrypt hashing:** A password-hashing function.
+- **JWT Authentication:** A method for securely transmitting information between parties as a JSON object.
 
-- **Deployment**: Experienced in deploying applications using platforms like Render, Heroku, and AWS.
+### Tools
+- **Git/GitHub:** A distributed version-control system for tracking changes in source code during software development.
+- **npm:** A package manager for the JavaScript programming language.
+- **babel:** A JavaScript compiler.
+- **webpack:** A static module bundler for modern JavaScript applications.
 
 ## Contact
 
